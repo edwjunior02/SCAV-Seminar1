@@ -8,3 +8,6 @@ In this image we can see that the version of FFMPEG shown is version 4.4.1.
 This tool has been installed using mac ports as it has been giving problems with brew. Finally we have been able to install FFMPEG in our OSx system using the following command:
 
 sudo ports install ffmpeg
+
+You can see this repository at:
+https://github.com/edwjunior02/SCAV-Seminar1.git
